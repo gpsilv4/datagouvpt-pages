@@ -1,10 +1,10 @@
 ---
 title: Educação, Ciência e Tecnologia
 keywords:
-description: Informação de dados e outros recursos relacionados com a Educação, Ciência e Tecnologia.
+description: Informação de dados e outros recursos relacionados com o sector da Educação, Ciência e Tecnologia.
 reuses:
 datasets:
 ---
-# Ambiente, Geografia e Território
+# Educação, Ciência e Tecnologia
 
-Informação de dados e outros recursos relacionados com a Educação, Ciência e Tecnologia.
+Informação de dados e outros recursos relacionados com o sector da Educação, Ciência e Tecnologia.

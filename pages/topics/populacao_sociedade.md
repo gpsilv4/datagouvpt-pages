@@ -1,10 +1,10 @@
 ---
 title: População e Sociedade
 keywords:
-description: Informação de dados e outros recursos relacionados com a População e Sociedade.
+description: Informação de dados e outros recursos relacionados com o sector da População e Sociedade.
 reuses:
 datasets:
 ---
-# Ambiente, Geografia e Território
+# População e Sociedade
 
-Informação de dados e outros recursos relacionados com a População e Sociedade.
+Informação de dados e outros recursos relacionados com o sector da População e Sociedade.
